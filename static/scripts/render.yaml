@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: Sky Games
+    env: docker
+    plan: free
